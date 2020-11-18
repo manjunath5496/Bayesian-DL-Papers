@@ -52,7 +52,7 @@ Bayesian Hypernetworks </a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Bayesian-DL-Papers/blob/master/bayl(24).pdf" style="text-decoration:none;">Gaussian Process Neurons</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Bayesian-DL-Papers/blob/master/bayl(25).pdf" style="text-decoration:none;">Gaussian Process Prior Variational Autoencoders</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Bayesian-DL-Papers/blob/master/bayl(26).pdf" style="text-decoration:none;">Scalable Variational Gaussian Process Classication</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Bayesian-DL-Papers/blob/master/bayl(26).pdf" style="text-decoration:none;">Scalable Variational Gaussian Process Classification</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Bayesian-DL-Papers/blob/master/bayl(27).pdf" style="text-decoration:none;">Deep Survival Analysis</a></li>
    
  
